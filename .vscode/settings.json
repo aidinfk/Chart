@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./django_plotly",
+        "./django_plotly",
+        "./django_plotly/django_plotly"
+    ]
+}
